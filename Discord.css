@@ -1,0 +1,64 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 941px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  min-height: 787px;
+  margin: 40px 77px 0 713px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 235px;
+  height: 235px;
+  background-image: url("images/eu2f.png");
+  background-position: 50% 50%;
+  margin: -787px auto 0 227px;
+}
+
+.u-section-1 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  font-weight: 700;
+  background-image: none;
+  margin: 58px auto 60px 243px;
+  padding: 10px 45px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-custom-html-1 {
+    height: auto;
+    margin-right: 0;
+    margin-left: 590px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 43px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-custom-html-1 {
+    margin-left: 370px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-custom-html-1 {
+    margin-left: 190px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-custom-html-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 105px;
+  }
+}
